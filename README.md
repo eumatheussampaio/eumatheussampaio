@@ -1,7 +1,7 @@
-### Oláa!! Sou Matheus Sampaio 👋
+### Olá!! Sou Matheus Sampaio 👋
 
 - 🌅 Ceará-BR
-- 💼 Trabalho com Desempenho & E-commerce
+- 💼 Trabalho com Business Intelligence
 - 👨🏿‍💻 Aluno Feiticeiro Inicial da Casa de Grifinória de Hogwarts, no momento estou estudando Banco de Dados
 - 👨‍💻 Entusiasta por Tecnologia e sempre aprendendo algo novo
 - 👦🏽 Pronomes: Ele/Dele
