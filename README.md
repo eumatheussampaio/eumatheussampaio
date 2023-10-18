@@ -5,7 +5,7 @@
 - 👨🏿‍💻 Initial Gryffindor Wizarding Student at Hogwarts, but my studies are currently focused on Data Engineering
 - 👨‍💻 Technology enthusiast and always learning something new.
 - 👦🏽 Pronouns: He/Him
-- 💻 Technologies that I am know with and have worked with: SQL (SQL Server, MySQL, AzureSQL, Redshift and BigQuery), Bid Data (PrestoDB, Hadoop, Zeppelin), Pentaho Data Integration, SSIS, Python, Spark, Power BI and Looker Studio. 
+- 💻 Technologies that I am know with and have worked with: SQL (SQL Server, MySQL, AzureSQL, Redshift and BigQuery), Big Data (PrestoDB, Hadoop, Zeppelin), Pentaho Data Integration, SSIS, Python, Spark, Power BI and Looker Studio. 
 
 <div>
   <a href-"https://github.com/eumatheussampaio">
